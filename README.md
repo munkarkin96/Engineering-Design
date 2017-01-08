@@ -1,6 +1,5 @@
-# engineering_design
+# Engineering & Design
 
-Engineering & Design 
 Third module in the Engineering Academy, Singapore Polytechnic. 
 
 For more information:
